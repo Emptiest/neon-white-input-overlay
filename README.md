@@ -8,3 +8,5 @@ These are intended to be used with the 5.0 Pre release version of [input-overlay
 ![mouse](/previews/mouse.png)
 
 ![wasd](/previews/wasd.png)
+
+(Note: The overlays themselves are actually transparent)
